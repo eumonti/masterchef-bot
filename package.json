@@ -1,0 +1,25 @@
+{
+  "name": "masterchef-bot",
+  "version": "1.0.0",
+  "description": "Bot per discord dei concorrenti di MasterChef più memorabili",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eumonti/masterchef-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eumonti/masterchef-bot/issues"
+  },
+  "homepage": "https://github.com/eumonti/masterchef-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.6"
+  }
+}
