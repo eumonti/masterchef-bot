@@ -1,2 +1,2 @@
 # Masterchef bot
-Bot per discord dei concorrenti di MasterChef più memorabili
+Bot per Discord dei concorrenti di MasterChef Italia più memorabili.
